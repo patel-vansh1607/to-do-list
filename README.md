@@ -1,6 +1,6 @@
 [![Project Banner](./src//images/readme-project-banner-01.png)](https://to-do-list-two-umber-81.vercel.app/)
 ---
-# 🚀 **Counter Display App**  
+# 🚀 **To-Do List**  
 > _A website where user can add or remove tasks_
 ---
 
